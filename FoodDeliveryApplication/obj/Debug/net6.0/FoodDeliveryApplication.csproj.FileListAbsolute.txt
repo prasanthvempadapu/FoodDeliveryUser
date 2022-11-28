@@ -1,0 +1,792 @@
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.exe
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.deps.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.runtimeconfig.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.pdb
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.AssemblyReference.cache
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.AssemblyInfoInputs.cache
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.AssemblyInfo.cs
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.CoreCompileInputs.cache
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.RazorAssemblyInfo.cache
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.RazorAssemblyInfo.cs
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\refint\FoodDeliveryApplication.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.pdb
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.genruntimeconfig.cache
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\ref\FoodDeliveryApplication.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.CopyComplete
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.staticwebassets.runtime.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\bundle\FoodDeliveryApplication.styles.css
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\projectbundle\FoodDeliveryApplication.bundle.scp.css
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\MessagePack.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raksha_ganyarpawar\source\repos\FoodDeliveryApplication\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\appsettings.Development.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\appsettings.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.staticwebassets.runtime.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.exe
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.deps.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.runtimeconfig.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.pdb
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Humanizer.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\MessagePack.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Razor.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Common.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.AssemblyReference.cache
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.AssemblyInfoInputs.cache
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.AssemblyInfo.cs
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.CoreCompileInputs.cache
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.RazorAssemblyInfo.cache
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.RazorAssemblyInfo.cs
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\staticwebassets.build.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\staticwebassets.development.json
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\bundle\FoodDeliveryApplication.styles.css
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\projectbundle\FoodDeliveryApplication.bundle.scp.css
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.CopyComplete
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\refint\FoodDeliveryApplication.dll
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.pdb
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.genruntimeconfig.cache
+F:\Food Delivery Application(Zomato)\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\ref\FoodDeliveryApplication.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\appsettings.Development.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\appsettings.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.staticwebassets.runtime.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.exe
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.deps.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.runtimeconfig.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\FoodDeliveryApplication.pdb
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Humanizer.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\MessagePack.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Razor.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Common.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.AssemblyReference.cache
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.AssemblyInfoInputs.cache
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.AssemblyInfo.cs
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.CoreCompileInputs.cache
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.RazorAssemblyInfo.cache
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.RazorAssemblyInfo.cs
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\staticwebassets.build.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\staticwebassets.development.json
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\bundle\FoodDeliveryApplication.styles.css
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\scopedcss\projectbundle\FoodDeliveryApplication.bundle.scp.css
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.csproj.CopyComplete
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\refint\FoodDeliveryApplication.dll
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.pdb
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\FoodDeliveryApplication.genruntimeconfig.cache
+F:\Aws Pipeline\FoodDeliveryClient\FoodDeliveryApplication\obj\Debug\net6.0\ref\FoodDeliveryApplication.dll
