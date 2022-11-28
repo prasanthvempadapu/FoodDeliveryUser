@@ -1,4 +1,4 @@
-﻿version: 0.2
+version: 0.2
 
 phases:
   install:
@@ -8,17 +8,17 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - dotnet restore CustomerApp.csproj
+      - dotnet restore FoodDeliveryApplication/FoodDeliveryApplication.csproj
 
   build:
     commands:
       - echo Build started on `date`
-      - dotnet build CustomerApp.csproj
+      - dotnet build FoodDeliveryApplication/FoodDeliveryApplication.csproj
 
   post_build:
     commands:
       - echo Publish started on `date`
-      - dotnet publish -c Release -o ./ CustomerApp.csproj
+      - dotnet publish -c Release -o ./ FoodDeliveryApplication/FoodDeliveryApplication.csproj
 
 artifacts:
   files:
