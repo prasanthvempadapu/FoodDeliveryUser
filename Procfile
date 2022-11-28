@@ -1,1 +1,1 @@
-web: dotnet ./CustomerApp.dll
+web: dotnet ./FoodDeliveryApplication.dll
