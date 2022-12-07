@@ -1,0 +1,173 @@
+2022-12-07 12:05:32.568 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/AccountCreated.cshtml'.
+2022-12-07 12:05:32.675 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CancelOrder.cshtml'.
+2022-12-07 12:05:32.675 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Cart.cshtml'.
+2022-12-07 12:05:32.675 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CreateAccount.cshtml'.
+2022-12-07 12:05:32.675 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CustomerDetails.cshtml'.
+2022-12-07 12:05:32.675 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Login.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Menu.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/OrderStatus.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/PlaceOrder.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Restaurants.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Notification.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2022-12-07 12:05:32.676 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2022-12-07 12:05:32.701 +05:30  DBG  Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-07 12:05:32.843 +05:30  DBG  Hosting starting
+2022-12-07 12:05:32.879 +05:30  INF  User profile is available. Using 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-07 12:05:32.893 +05:30  DBG  Repository contains no viable default key. Caller should generate a key with immediate activation.
+2022-12-07 12:05:32.893 +05:30  DBG  Policy resolution states that a new key should be added to the key ring.
+2022-12-07 12:05:32.906 +05:30  INF  Creating key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} with creation date 2022-12-07 06:35:32Z, activation date 2022-12-07 06:35:32Z, and expiration date 2023-03-07 06:35:32Z.
+2022-12-07 12:05:32.926 +05:30  DBG  Descriptor deserializer type for key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} is 'Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+2022-12-07 12:05:32.947 +05:30  DBG  No key escrow sink found. Not writing key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} to escrow.
+2022-12-07 12:05:32.970 +05:30  DBG  Encrypting to Windows DPAPI for current user account (DESKTOP-QQL4ICT\SURYA).
+2022-12-07 12:05:32.981 +05:30  INF  Writing data to file 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys\key-3ad24462-88d7-4494-a2d5-4e8e49ca7a86.xml'.
+2022-12-07 12:05:32.983 +05:30  DBG  Key cache expiration token triggered by 'CreateNewKey' operation.
+2022-12-07 12:05:32.984 +05:30  DBG  Reading data from file 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys\key-3ad24462-88d7-4494-a2d5-4e8e49ca7a86.xml'.
+2022-12-07 12:05:32.988 +05:30  DBG  Found key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86}.
+2022-12-07 12:05:33.005 +05:30  DBG  Considering key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} with expiration date 2023-03-07 06:35:32Z as default key.
+2022-12-07 12:05:33.007 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-07 12:05:33.007 +05:30  DBG  Decrypting secret element using Windows DPAPI.
+2022-12-07 12:05:33.010 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-07 12:05:33.022 +05:30  DBG  Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2022-12-07 12:05:33.025 +05:30  DBG  Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2022-12-07 12:05:33.030 +05:30  DBG  Using key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} as the default key.
+2022-12-07 12:05:33.031 +05:30  DBG  Key ring with default key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} was loaded during application startup.
+2022-12-07 12:05:33.151 +05:30  DBG  Using development certificate: CN=localhost (Thumbprint: B19312721C637D4A738A6BC6757236AADD83DB07)
+2022-12-07 12:05:33.330 +05:30  INF  Now listening on: https://localhost:7119
+2022-12-07 12:05:33.330 +05:30  INF  Now listening on: http://localhost:5119
+2022-12-07 12:05:33.330 +05:30  DBG  Loaded hosting startup assembly FoodDeliveryApplication
+2022-12-07 12:05:33.330 +05:30  DBG  Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-07 12:05:33.330 +05:30  DBG  Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-07 12:05:33.332 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-07 12:05:33.332 +05:30  INF  Hosting environment: Development
+2022-12-07 12:05:33.332 +05:30  INF  Content root path: D:\FoodDeliveryUser\FoodDeliveryUser\FoodDeliveryApplication\
+2022-12-07 12:05:33.333 +05:30  DBG  Hosting started
+2022-12-07 12:05:33.676 +05:30  DBG  Connection id "0HMMO3KV49V6E" accepted.
+2022-12-07 12:05:33.676 +05:30  DBG  Connection id "0HMMO3KV49V6D" accepted.
+2022-12-07 12:05:33.678 +05:30  DBG  Connection id "0HMMO3KV49V6E" started.
+2022-12-07 12:05:33.678 +05:30  DBG  Connection id "0HMMO3KV49V6D" started.
+2022-12-07 12:05:34.124 +05:30  DBG  Connection id "0HMMO3KV49V6D" received FIN.
+2022-12-07 12:05:34.124 +05:30  DBG  Connection id "0HMMO3KV49V6E" received FIN.
+2022-12-07 12:05:34.133 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.<FillHandshakeBufferAsync>g__InternalFillHandshakeBufferAsync|187_0[TIOAdapter](TIOAdapter adap, ValueTask`1 task, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-07 12:05:34.133 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.<FillHandshakeBufferAsync>g__InternalFillHandshakeBufferAsync|187_0[TIOAdapter](TIOAdapter adap, ValueTask`1 task, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-07 12:05:34.173 +05:30  DBG  Connection id "0HMMO3KV49V6E" stopped.
+2022-12-07 12:05:34.173 +05:30  DBG  Connection id "0HMMO3KV49V6D" stopped.
+2022-12-07 12:05:34.174 +05:30  DBG  Connection id "0HMMO3KV49V6E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-07 12:05:34.176 +05:30  DBG  Connection id "0HMMO3KV49V6D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-07 12:06:14.723 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/AccountCreated.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CancelOrder.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Cart.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CreateAccount.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CustomerDetails.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Login.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Menu.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/OrderStatus.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/PlaceOrder.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Restaurants.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Notification.cshtml'.
+2022-12-07 12:06:14.789 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2022-12-07 12:06:14.790 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2022-12-07 12:06:14.790 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2022-12-07 12:06:14.790 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2022-12-07 12:06:14.816 +05:30  DBG  Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-07 12:06:14.910 +05:30  DBG  Hosting starting
+2022-12-07 12:06:14.947 +05:30  INF  User profile is available. Using 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-07 12:06:14.952 +05:30  DBG  Reading data from file 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys\key-3ad24462-88d7-4494-a2d5-4e8e49ca7a86.xml'.
+2022-12-07 12:06:14.977 +05:30  DBG  Found key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86}.
+2022-12-07 12:06:15.048 +05:30  DBG  Considering key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} with expiration date 2023-03-07 06:35:32Z as default key.
+2022-12-07 12:06:15.052 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-07 12:06:15.091 +05:30  DBG  Decrypting secret element using Windows DPAPI.
+2022-12-07 12:06:15.094 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-07 12:06:15.105 +05:30  DBG  Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2022-12-07 12:06:15.110 +05:30  DBG  Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2022-12-07 12:06:15.116 +05:30  DBG  Using key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} as the default key.
+2022-12-07 12:06:15.117 +05:30  DBG  Key ring with default key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} was loaded during application startup.
+2022-12-07 12:06:15.791 +05:30  DBG  Using development certificate: CN=localhost (Thumbprint: B19312721C637D4A738A6BC6757236AADD83DB07)
+2022-12-07 12:06:15.888 +05:30  INF  Now listening on: https://localhost:7119
+2022-12-07 12:06:15.889 +05:30  INF  Now listening on: http://localhost:5119
+2022-12-07 12:06:15.889 +05:30  DBG  Loaded hosting startup assembly FoodDeliveryApplication
+2022-12-07 12:06:15.889 +05:30  DBG  Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-07 12:06:15.889 +05:30  DBG  Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-07 12:06:15.889 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-07 12:06:15.889 +05:30  INF  Hosting environment: Development
+2022-12-07 12:06:15.890 +05:30  INF  Content root path: D:\FoodDeliveryUser\FoodDeliveryUser\FoodDeliveryApplication\
+2022-12-07 12:06:15.890 +05:30  DBG  Hosting started
+2022-12-07 12:06:16.101 +05:30  DBG  Connection id "0HMMO3LBOTLLP" accepted.
+2022-12-07 12:06:16.102 +05:30  DBG  Connection id "0HMMO3LBOTLLP" started.
+2022-12-07 12:06:16.110 +05:30  DBG  Connection id "0HMMO3LBOTLLP" received FIN.
+2022-12-07 12:06:16.124 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-07 12:06:16.193 +05:30  DBG  Connection id "0HMMO3LBOTLLP" stopped.
+2022-12-07 12:06:16.195 +05:30  DBG  Connection id "0HMMO3LBOTLLP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-07 12:07:41.465 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/AccountCreated.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CancelOrder.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Cart.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CreateAccount.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CustomerDetails.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Login.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Menu.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/OrderStatus.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/PlaceOrder.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Restaurants.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Notification.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2022-12-07 12:07:41.539 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2022-12-07 12:07:41.567 +05:30  DBG  Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-07 12:07:41.752 +05:30  DBG  Hosting starting
+2022-12-07 12:07:41.850 +05:30  INF  User profile is available. Using 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-07 12:07:41.855 +05:30  DBG  Reading data from file 'C:\Users\SURYA\AppData\Local\ASP.NET\DataProtection-Keys\key-3ad24462-88d7-4494-a2d5-4e8e49ca7a86.xml'.
+2022-12-07 12:07:41.881 +05:30  DBG  Found key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86}.
+2022-12-07 12:07:41.910 +05:30  DBG  Considering key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} with expiration date 2023-03-07 06:35:32Z as default key.
+2022-12-07 12:07:41.914 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-07 12:07:41.922 +05:30  DBG  Decrypting secret element using Windows DPAPI.
+2022-12-07 12:07:41.925 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-07 12:07:41.936 +05:30  DBG  Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2022-12-07 12:07:41.941 +05:30  DBG  Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2022-12-07 12:07:41.949 +05:30  DBG  Using key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} as the default key.
+2022-12-07 12:07:41.950 +05:30  DBG  Key ring with default key {3ad24462-88d7-4494-a2d5-4e8e49ca7a86} was loaded during application startup.
+2022-12-07 12:07:42.217 +05:30  DBG  Using development certificate: CN=localhost (Thumbprint: B19312721C637D4A738A6BC6757236AADD83DB07)
+2022-12-07 12:07:42.354 +05:30  INF  Now listening on: https://localhost:7119
+2022-12-07 12:07:42.354 +05:30  INF  Now listening on: http://localhost:5119
+2022-12-07 12:07:42.354 +05:30  DBG  Loaded hosting startup assembly FoodDeliveryApplication
+2022-12-07 12:07:42.354 +05:30  DBG  Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-07 12:07:42.354 +05:30  DBG  Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-07 12:07:42.355 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-07 12:07:42.355 +05:30  INF  Hosting environment: Development
+2022-12-07 12:07:42.355 +05:30  INF  Content root path: D:\FoodDeliveryUser\FoodDeliveryUser\FoodDeliveryApplication\
+2022-12-07 12:07:42.355 +05:30  DBG  Hosting started
+2022-12-07 12:07:42.375 +05:30  DBG  Connection id "0HMMO3M5FNF5V" received FIN.
+2022-12-07 12:07:42.388 +05:30  DBG  Connection id "0HMMO3M5FNF5V" accepted.
+2022-12-07 12:07:42.389 +05:30  DBG  Connection id "0HMMO3M5FNF5V" started.
+2022-12-07 12:07:42.413 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-07 12:07:42.483 +05:30  DBG  Connection id "0HMMO3M5FNF5V" stopped.
+2022-12-07 12:07:42.487 +05:30  DBG  Connection id "0HMMO3M5FNF5V" sending FIN because: "The Socket transport's send loop completed gracefully."
