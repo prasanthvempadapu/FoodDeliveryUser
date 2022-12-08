@@ -1,0 +1,20 @@
+
+{
+    "region" : "ap-south-1",
+    "configuration" : "Debug",
+    "framework"     : "net6.0",
+    "self-contained" : false,
+    "application"    : "FoodDelivery",
+    "environment"    : "FoodDelivery-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-01897916ace5501cb\";\"aws:ec2:vpc,Subnets\"=\"subnet-005e54937a0367c8f\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.4.2 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "fooddelivery-dev",
+    "instance-type"        : "t2.micro",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role",
+    "proxy-server"         : "none"
+}
