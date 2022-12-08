@@ -5,6 +5,12 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDeliveryApplication", "FoodDeliveryApplication\FoodDeliveryApplication.csproj", "{605535BB-7ADC-4BBD-A992-3572703E174D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{8EA2DCB0-DB97-4A12-8572-76E3F0ABC02B}"
+	ProjectSection(SolutionItems) = preProject
+		buildspec.yml = buildspec.yml
+		Procfile = Procfile
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
