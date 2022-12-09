@@ -5,7 +5,7 @@ using Serilog;
 
 namespace FoodDeliveryApplication
 {
-    public class CustomExceptionFilter : System.Web.Mvc.FilterAttribute, IExceptionFilter
+    /*public class CustomExceptionFilter : System.Web.Mvc.FilterAttribute, IExceptionFilter
     {
         public void OnException(ExceptionContext filtercontext)
         {
@@ -24,5 +24,5 @@ namespace FoodDeliveryApplication
                 filtercontext.ExceptionHandled = true;
             }
         }
-    }
+    }*/
 }
