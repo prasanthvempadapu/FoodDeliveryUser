@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace FoodDeliveryApplication.Controllers
 {
-    [CustomExceptionFilter]
+    
     public class FoodSiteController : Controller
     {
 
