@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FoodDeliveryUser\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj": {}
+    "F:\\FoodDelivery (AWS Codepipeline)\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj": {}
   },
   "projects": {
-    "D:\\FoodDeliveryUser\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj": {
+    "F:\\FoodDelivery (AWS Codepipeline)\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FoodDeliveryUser\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj",
+        "projectUniqueName": "F:\\FoodDelivery (AWS Codepipeline)\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj",
         "projectName": "FoodDeliveryApplication",
-        "projectPath": "D:\\FoodDeliveryUser\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj",
-        "packagesPath": "C:\\Users\\SURYA\\.nuget\\packages\\",
-        "outputPath": "D:\\FoodDeliveryUser\\FoodDeliveryUser\\FoodDeliveryApplication\\obj\\",
+        "projectPath": "F:\\FoodDelivery (AWS Codepipeline)\\FoodDeliveryUser\\FoodDeliveryApplication\\FoodDeliveryApplication.csproj",
+        "packagesPath": "C:\\Users\\vempadapu_prasanth\\.nuget\\packages\\",
+        "outputPath": "F:\\FoodDelivery (AWS Codepipeline)\\FoodDeliveryUser\\FoodDeliveryApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SURYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vempadapu_prasanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

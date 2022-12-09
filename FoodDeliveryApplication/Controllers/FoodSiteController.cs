@@ -23,7 +23,7 @@ namespace FoodDeliveryApplication.Controllers
         {
             _logger = logger;
 
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433;Initial Catalog = FoodDeliveryApplication;Integrated Security=False;User ID=admin;Password=surya1997;");
             SqlCommand cmd = new SqlCommand("select * from Users", conn);
             conn.Open();
             SqlDataReader sr = cmd.ExecuteReader();
@@ -56,7 +56,7 @@ namespace FoodDeliveryApplication.Controllers
                     return View();
                 }
 
-                SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=True;");
+                SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
                 SqlCommand cmd = new SqlCommand(String.Format("insert into Users values('{0}','{1}','{2}')", signup.UserName, signup.Email, signup.Password), conn);
                 conn.Open();
                 cmd.ExecuteNonQuery();
@@ -136,7 +136,7 @@ namespace FoodDeliveryApplication.Controllers
                 _logger.LogInformation("{0} Logged Out", CurrUser);
                 return RedirectToAction("Login");
             }
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True; ");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997; ");
             SqlCommand cmd = new SqlCommand("select * from Restaurants", conn);
             conn.Open();
             SqlDataReader sr = cmd.ExecuteReader();
@@ -162,7 +162,7 @@ namespace FoodDeliveryApplication.Controllers
             }
             Console.WriteLine("ResId" + Id);
 
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("select *  from Food where Restaurant_Id={0}", Id), conn);
             conn.Open();
             SqlDataReader sr = cmd.ExecuteReader();
@@ -216,7 +216,7 @@ namespace FoodDeliveryApplication.Controllers
             _logger.LogInformation("Item:{0} added to cart by the user:{1} of Quantity:{2}", Food_Item, HttpContext.Session.GetString("UserName"), Quantity);
 
 
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("insert into AddItemToCart values('{0}','{1}','{2}','{3}','{4}')", HttpContext.Session.GetString("UserName"), Food_Item, Quantity,Restaurant_Id,Price), conn);
             conn.Open();
             cmd.ExecuteNonQuery();
@@ -240,7 +240,7 @@ namespace FoodDeliveryApplication.Controllers
 
           /*  Console.WriteLine("FoodItem = " + FoodItem);*/
            
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("delete from AddItemToCart where ItemNo = '{0}'", Id), conn);
             conn.Open();
             cmd.ExecuteNonQuery();
@@ -258,7 +258,7 @@ namespace FoodDeliveryApplication.Controllers
                 _logger.LogInformation("{0} Logged Out", CurrUser);
                 return RedirectToAction("Login");
             }
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("select A.FoodItem, A.Quantity,A.ItemNo, F.Food_Image,F.Price,F.Id,F.Restaurant_Id from AddItemToCart A inner join Food F on F.Food_Item = A.FoodItem where A.UserName = '{0}'", HttpContext.Session.GetString("UserName")), conn);
             conn.Open();
             SqlDataReader sr = cmd.ExecuteReader();
@@ -302,7 +302,7 @@ namespace FoodDeliveryApplication.Controllers
 
             Console.WriteLine(OrderTime);
 
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("insert into Orders values('{0}','{1}','{2}','{3}','{4}')",inVoiceNo, HttpContext.Session.GetString("UserName"),address,phoneNo,OrderTime.ToString("yyyy-MM-dd HH:mm:ss")), conn);
             conn.Open();
             cmd.ExecuteNonQuery();
@@ -310,7 +310,7 @@ namespace FoodDeliveryApplication.Controllers
 
            
 
-            SqlConnection conn1 = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn1 = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand sqlcmd = new SqlCommand(String.Format("select * from AddItemToCart where UserName = '{0}'", HttpContext.Session.GetString("UserName")), conn);
             conn.Open();
             SqlDataReader sr = sqlcmd.ExecuteReader();
@@ -362,7 +362,7 @@ namespace FoodDeliveryApplication.Controllers
             {
                 return RedirectToAction("Login");
             }
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("select * from ConfirmOrder where UserName = '{0}'", HttpContext.Session.GetString("UserName")), conn);
             conn.Open();
             SqlDataReader sr = cmd.ExecuteReader();
@@ -407,7 +407,7 @@ namespace FoodDeliveryApplication.Controllers
                 return RedirectToAction("Login");
             }
 
-            SqlConnection conn = new SqlConnection("Data Source = PSL-FL527L3 ; Initial Catalog = FoodDeliveryApplication; Integrated Security = True;");
+            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
 
             ViewBag.ObjectPassed = "True";
             var OrderList = new List<Order>();
