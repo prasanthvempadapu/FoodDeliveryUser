@@ -2879,3 +2879,73 @@ Error Number:10060,State:0,Class:20
 2022-12-09 18:43:53.209 +05:30  INF  The file /favicon.ico was not modified
 2022-12-09 18:43:53.209 +05:30  DBG  Handled. Status code: 304 File: /favicon.ico
 2022-12-09 18:43:53.209 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/favicon.ico - - - 304 - image/x-icon 13.4270ms
+2022-12-09 18:46:04.525 +05:30  DBG  Connection id "0HMMPSSS0AH1Q" is closing.
+2022-12-09 18:46:04.536 +05:30  DBG  Connection id "0HMMPSSS0AH1Q" is closed. The last processed stream ID was 5.
+2022-12-09 18:46:04.538 +05:30  DBG  Connection id "0HMMPSSS0AH1Q" received FIN.
+2022-12-09 18:46:04.539 +05:30  DBG  Connection id "0HMMPSSS0AH1Q" sending FIN because: "The client closed the connection."
+2022-12-09 18:46:04.542 +05:30  DBG  Connection id "0HMMPSSS0AH1Q" stopped.
+2022-12-09 18:55:03.957 +05:30  DBG  Connection id "0HMMPSSS0AH1R" accepted.
+2022-12-09 18:55:03.957 +05:30  DBG  Connection id "0HMMPSSS0AH1R" started.
+2022-12-09 18:55:03.961 +05:30  DBG  Connection 0HMMPSSS0AH1R established using the following protocol: "Tls13"
+2022-12-09 18:55:03.962 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/FoodSite/Login - -
+2022-12-09 18:55:03.963 +05:30  DBG  The request path /FoodSite/Login does not match a supported file type
+2022-12-09 18:55:03.964 +05:30  DBG  1 candidate(s) found for the request path '/FoodSite/Login'
+2022-12-09 18:55:03.964 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/FoodSite/Login'
+2022-12-09 18:55:03.964 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-09 18:55:03.965 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-09 18:55:03.966 +05:30  INF  Route matched with {action = "Login", controller = "FoodSite"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication).
+2022-12-09 18:55:03.967 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-09 18:55:03.967 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-09 18:55:03.967 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-09 18:55:03.967 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-09 18:55:03.967 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-09 18:55:03.967 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication)
+2022-12-09 18:55:25.322 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication) in 21355.3236ms
+2022-12-09 18:55:25.322 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-09 18:55:25.323 +05:30  INF  Accessing expired session, Key:77856cbd-6e97-fa26-90e7-6134f5414814
+2022-12-09 18:55:25.323 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at FoodDeliveryApplication.Controllers.FoodSiteController..ctor(ILogger`1 logger) in F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\Controllers\FoodSiteController.cs:line 28
+   at lambda_method23(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+
+2022-12-09 18:55:25.663 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-09 18:55:25.665 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-09 18:55:25.665 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/FoodSite/Login - - - 500 - text/html;+charset=utf-8 21703.4462ms
+2022-12-09 18:55:25.694 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-09 18:55:25.695 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 0.3296ms
+2022-12-09 18:57:37.144 +05:30  DBG  Connection id "0HMMPSSS0AH1R" is closing.
+2022-12-09 18:57:37.144 +05:30  DBG  Connection id "0HMMPSSS0AH1R" is closed. The last processed stream ID was 3.
+2022-12-09 18:57:37.146 +05:30  DBG  Connection id "0HMMPSSS0AH1R" received FIN.
+2022-12-09 18:57:37.146 +05:30  DBG  Connection id "0HMMPSSS0AH1R" stopped.
+2022-12-09 18:57:37.146 +05:30  DBG  Connection id "0HMMPSSS0AH1R" sending FIN because: "The Socket transport's send loop completed gracefully."

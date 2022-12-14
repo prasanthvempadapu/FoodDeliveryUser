@@ -117,7 +117,7 @@ namespace FoodDeliveryApplication.Controllers
 
             //Log.Information(String.Format("{0} Logged out", HttpContext.Session.GetString("UserName")));
             _logger.LogInformation("{0} Logged Out", HttpContext.Session.GetString("UserName"));
-            return View("Login");
+            return RedirectToAction("Login");
         }
 
      
