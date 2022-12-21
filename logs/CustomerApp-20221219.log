@@ -1,0 +1,607 @@
+2022-12-19 12:24:04.627 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/AccountCreated.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CancelOrder.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Cart.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CreateAccount.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/CustomerDetails.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Login.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Menu.cshtml'.
+2022-12-19 12:24:04.680 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/OrderStatus.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/PlaceOrder.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/FoodSite/Restaurants.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Notification.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2022-12-19 12:24:04.681 +05:30  DBG  Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2022-12-19 12:24:04.695 +05:30  DBG  Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-19 12:24:04.771 +05:30  DBG  Hosting starting
+2022-12-19 12:24:04.860 +05:30  INF  User profile is available. Using 'C:\Users\vempadapu_prasanth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-19 12:24:04.864 +05:30  DBG  Reading data from file 'C:\Users\vempadapu_prasanth\AppData\Local\ASP.NET\DataProtection-Keys\key-145d6bc5-9b80-46f7-95e8-86825b150bd1.xml'.
+2022-12-19 12:24:04.877 +05:30  DBG  Reading data from file 'C:\Users\vempadapu_prasanth\AppData\Local\ASP.NET\DataProtection-Keys\key-983f3911-cbc1-4ebd-a3d7-1e526b3d543b.xml'.
+2022-12-19 12:24:04.879 +05:30  DBG  Reading data from file 'C:\Users\vempadapu_prasanth\AppData\Local\ASP.NET\DataProtection-Keys\key-ee8e50a4-7c5c-4f1a-b2fd-e71076cf28c9.xml'.
+2022-12-19 12:24:04.887 +05:30  DBG  Found key {145d6bc5-9b80-46f7-95e8-86825b150bd1}.
+2022-12-19 12:24:04.892 +05:30  DBG  Found key {983f3911-cbc1-4ebd-a3d7-1e526b3d543b}.
+2022-12-19 12:24:04.892 +05:30  DBG  Found key {ee8e50a4-7c5c-4f1a-b2fd-e71076cf28c9}.
+2022-12-19 12:24:04.898 +05:30  DBG  Considering key {145d6bc5-9b80-46f7-95e8-86825b150bd1} with expiration date 2023-02-06 05:21:42Z as default key.
+2022-12-19 12:24:04.899 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-19 12:24:04.902 +05:30  DBG  Decrypting secret element using Windows DPAPI.
+2022-12-19 12:24:04.904 +05:30  DBG  Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-12-19 12:24:04.908 +05:30  DBG  Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2022-12-19 12:24:04.910 +05:30  DBG  Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2022-12-19 12:24:04.912 +05:30  DBG  Using key {145d6bc5-9b80-46f7-95e8-86825b150bd1} as the default key.
+2022-12-19 12:24:04.912 +05:30  DBG  Key ring with default key {145d6bc5-9b80-46f7-95e8-86825b150bd1} was loaded during application startup.
+2022-12-19 12:24:05.084 +05:30  DBG  Using development certificate: CN=localhost (Thumbprint: EE083130DAA066F7C4047739CDECB20D4A2050C1)
+2022-12-19 12:24:05.171 +05:30  INF  Now listening on: https://localhost:7119
+2022-12-19 12:24:05.171 +05:30  INF  Now listening on: http://localhost:5119
+2022-12-19 12:24:05.171 +05:30  DBG  Loaded hosting startup assembly FoodDeliveryApplication
+2022-12-19 12:24:05.171 +05:30  DBG  Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-19 12:24:05.171 +05:30  DBG  Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-19 12:24:05.171 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-19 12:24:05.171 +05:30  INF  Hosting environment: Development
+2022-12-19 12:24:05.171 +05:30  INF  Content root path: F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\
+2022-12-19 12:24:05.171 +05:30  DBG  Hosting started
+2022-12-19 12:24:05.284 +05:30  DBG  Connection id "0HMN1HN8SPH29" received FIN.
+2022-12-19 12:24:05.289 +05:30  DBG  Connection id "0HMN1HN8SPH29" accepted.
+2022-12-19 12:24:05.290 +05:30  DBG  Connection id "0HMN1HN8SPH29" started.
+2022-12-19 12:24:05.302 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-19 12:24:05.385 +05:30  DBG  Connection id "0HMN1HN8SPH29" stopped.
+2022-12-19 12:24:05.387 +05:30  DBG  Connection id "0HMN1HN8SPH29" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-19 12:24:06.337 +05:30  DBG  Connection id "0HMN1HN8SPH2A" accepted.
+2022-12-19 12:24:06.337 +05:30  DBG  Connection id "0HMN1HN8SPH2A" started.
+2022-12-19 12:24:06.478 +05:30  DBG  Connection 0HMN1HN8SPH2A established using the following protocol: "Tls13"
+2022-12-19 12:24:06.578 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/ - -
+2022-12-19 12:24:06.637 +05:30  DBG  Wildcard detected, all requests with hosts will be allowed.
+2022-12-19 12:24:06.641 +05:30  DBG  The request path / does not match a supported file type
+2022-12-19 12:24:06.698 +05:30  DBG  1 candidate(s) found for the request path '/'
+2022-12-19 12:24:06.708 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2022-12-19 12:24:06.709 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:24:06.719 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:24:06.740 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:24:06.807 +05:30  INF  Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication).
+2022-12-19 12:24:06.809 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:24:06.810 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:24:06.810 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:24:06.810 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:24:06.810 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:24:06.812 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:24:06.814 +05:30  DBG  Executed controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:24:06.820 +05:30  DBG  View lookup cache miss for view 'Index' in controller 'Home'.
+2022-12-19 12:24:06.833 +05:30  INF  Executing ViewResult, running view Index.
+2022-12-19 12:24:06.842 +05:30  DBG  The view path '/Views/Home/Index.cshtml' was found in 14.8432ms.
+2022-12-19 12:24:07.021 +05:30  DBG  View lookup cache miss for view '_Layout' in controller 'Home'.
+2022-12-19 12:24:07.118 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:07.140 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:24:07.143 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:24:07.146 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:07.147 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:24:07.147 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:24:07.147 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:07.148 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/CreateAccount and 
+2022-12-19 12:24:07.148 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/CreateAccount
+2022-12-19 12:24:07.149 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:07.149 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/Login and 
+2022-12-19 12:24:07.149 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/Login
+2022-12-19 12:24:07.154 +05:30  DBG  View lookup cache miss for view '_Notification' in controller 'Home'.
+2022-12-19 12:24:07.163 +05:30  DBG  The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2022-12-19 12:24:07.163 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:07.164 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2022-12-19 12:24:07.164 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2022-12-19 12:24:07.550 +05:30  INF  Executed ViewResult - view Index executed in 731.9869ms.
+2022-12-19 12:24:07.559 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication) in 748.1499ms
+2022-12-19 12:24:07.559 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:24:07.697 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:24:07.730 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:24:07.737 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/ - - - 200 - text/html;+charset=utf-8 1167.5495ms
+2022-12-19 12:24:07.802 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:24:07.808 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 6.5944ms
+2022-12-19 12:24:10.569 +05:30  DBG  Connection id "0HMN1HN8SPH2A" received FIN.
+2022-12-19 12:24:10.576 +05:30  DBG  Connection id "0HMN1HN8SPH2A" is closed. The last processed stream ID was 3.
+2022-12-19 12:24:10.577 +05:30  DBG  Connection id "0HMN1HN8SPH2A" sending FIN because: "The client closed the connection."
+2022-12-19 12:24:10.584 +05:30  DBG  Connection id "0HMN1HN8SPH2A" stopped.
+2022-12-19 12:24:23.507 +05:30  DBG  Connection id "0HMN1HN8SPH2B" received FIN.
+2022-12-19 12:24:23.507 +05:30  DBG  Connection id "0HMN1HN8SPH2B" accepted.
+2022-12-19 12:24:23.511 +05:30  DBG  Connection id "0HMN1HN8SPH2B" started.
+2022-12-19 12:24:23.511 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-19 12:24:23.512 +05:30  DBG  Connection id "0HMN1HN8SPH2B" stopped.
+2022-12-19 12:24:23.512 +05:30  DBG  Connection id "0HMN1HN8SPH2B" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-19 12:24:26.345 +05:30  DBG  Connection id "0HMN1HN8SPH2C" accepted.
+2022-12-19 12:24:26.353 +05:30  DBG  Connection id "0HMN1HN8SPH2C" started.
+2022-12-19 12:24:26.367 +05:30  DBG  Connection 0HMN1HN8SPH2C established using the following protocol: "Tls13"
+2022-12-19 12:24:26.370 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/ - -
+2022-12-19 12:24:26.383 +05:30  DBG  The request path / does not match a supported file type
+2022-12-19 12:24:26.383 +05:30  DBG  1 candidate(s) found for the request path '/'
+2022-12-19 12:24:26.385 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2022-12-19 12:24:26.385 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:24:26.387 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:24:26.392 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:24:26.393 +05:30  INF  Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication).
+2022-12-19 12:24:26.393 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:24:26.393 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:24:26.393 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:24:26.393 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:24:26.393 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:24:26.393 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:24:26.393 +05:30  DBG  Executed controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:24:26.394 +05:30  DBG  View lookup cache hit for view 'Index' in controller 'Home'.
+2022-12-19 12:24:26.394 +05:30  INF  Executing ViewResult, running view Index.
+2022-12-19 12:24:26.394 +05:30  DBG  The view path '/Views/Home/Index.cshtml' was found in 0.2632ms.
+2022-12-19 12:24:26.395 +05:30  DBG  View lookup cache hit for view '_Layout' in controller 'Home'.
+2022-12-19 12:24:26.397 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:26.397 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:24:26.397 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:24:26.397 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:26.397 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:24:26.397 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:24:26.397 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:26.397 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/CreateAccount and 
+2022-12-19 12:24:26.397 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/CreateAccount
+2022-12-19 12:24:26.398 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:26.398 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/Login and 
+2022-12-19 12:24:26.398 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/Login
+2022-12-19 12:24:26.398 +05:30  DBG  View lookup cache hit for view '_Notification' in controller 'Home'.
+2022-12-19 12:24:26.398 +05:30  DBG  The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2022-12-19 12:24:26.398 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:24:26.398 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2022-12-19 12:24:26.398 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2022-12-19 12:24:26.416 +05:30  INF  Executed ViewResult - view Index executed in 22.2516ms.
+2022-12-19 12:24:26.416 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication) in 23.2787ms
+2022-12-19 12:24:26.416 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:24:26.425 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:24:26.427 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:24:26.428 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/ - - - 200 - text/html;+charset=utf-8 57.8075ms
+2022-12-19 12:24:27.600 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:24:27.600 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 0.5785ms
+2022-12-19 12:24:30.603 +05:30  DBG  Connection id "0HMN1HN8SPH2C" received FIN.
+2022-12-19 12:24:30.603 +05:30  DBG  Connection id "0HMN1HN8SPH2C" is closed. The last processed stream ID was 3.
+2022-12-19 12:24:30.603 +05:30  DBG  Connection id "0HMN1HN8SPH2C" sending FIN because: "The client closed the connection."
+2022-12-19 12:24:30.616 +05:30  DBG  Connection id "0HMN1HN8SPH2C" stopped.
+2022-12-19 12:25:45.700 +05:30  DBG  Connection id "0HMN1HN8SPH2D" accepted.
+2022-12-19 12:25:45.703 +05:30  DBG  Connection id "0HMN1HN8SPH2D" started.
+2022-12-19 12:25:45.707 +05:30  DBG  Connection 0HMN1HN8SPH2D established using the following protocol: "Tls13"
+2022-12-19 12:25:45.708 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/FoodSite/Login - -
+2022-12-19 12:25:45.711 +05:30  DBG  The request path /FoodSite/Login does not match a supported file type
+2022-12-19 12:25:45.713 +05:30  DBG  1 candidate(s) found for the request path '/FoodSite/Login'
+2022-12-19 12:25:45.713 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/FoodSite/Login'
+2022-12-19 12:25:45.713 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:25:45.713 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:25:45.714 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:25:45.715 +05:30  INF  Route matched with {action = "Login", controller = "FoodSite"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication).
+2022-12-19 12:25:45.716 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:25:45.716 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:25:45.716 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:25:45.716 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:25:45.716 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:25:45.716 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication)
+2022-12-19 12:26:00.104 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/FoodSite/CreateAccount - -
+2022-12-19 12:26:00.106 +05:30  DBG  The request path /FoodSite/CreateAccount does not match a supported file type
+2022-12-19 12:26:00.110 +05:30  DBG  1 candidate(s) found for the request path '/FoodSite/CreateAccount'
+2022-12-19 12:26:00.110 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.CreateAccount (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/FoodSite/CreateAccount'
+2022-12-19 12:26:00.110 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.CreateAccount (FoodDeliveryApplication)'
+2022-12-19 12:26:00.110 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:26:00.110 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.CreateAccount (FoodDeliveryApplication)'
+2022-12-19 12:26:00.111 +05:30  INF  Route matched with {action = "CreateAccount", controller = "FoodSite"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateAccount() on controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication).
+2022-12-19 12:26:00.112 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:26:00.112 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:00.112 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:26:00.112 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:26:00.112 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:00.112 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication)
+2022-12-19 12:26:01.867 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/FoodSite/Login - -
+2022-12-19 12:26:01.870 +05:30  DBG  The request path /FoodSite/Login does not match a supported file type
+2022-12-19 12:26:01.870 +05:30  DBG  1 candidate(s) found for the request path '/FoodSite/Login'
+2022-12-19 12:26:01.870 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/FoodSite/Login'
+2022-12-19 12:26:01.870 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:01.871 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:26:01.871 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:01.871 +05:30  INF  Route matched with {action = "Login", controller = "FoodSite"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication).
+2022-12-19 12:26:01.871 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:26:01.871 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:01.871 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:26:01.871 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:26:01.871 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:01.871 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication)
+2022-12-19 12:26:07.057 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication) in 21341.0922ms
+2022-12-19 12:26:07.057 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication) in 5185.7552ms
+2022-12-19 12:26:07.057 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.FoodSiteController.CreateAccount (FoodDeliveryApplication) in 6945.1388ms
+2022-12-19 12:26:07.058 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:07.058 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.CreateAccount (FoodDeliveryApplication)'
+2022-12-19 12:26:07.058 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:07.059 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at FoodDeliveryApplication.Controllers.FoodSiteController..ctor(ILogger`1 logger) in F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\Controllers\FoodSiteController.cs:line 28
+   at lambda_method23(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+
+2022-12-19 12:26:07.059 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at FoodDeliveryApplication.Controllers.FoodSiteController..ctor(ILogger`1 logger) in F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\Controllers\FoodSiteController.cs:line 28
+   at lambda_method23(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+
+2022-12-19 12:26:07.059 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at FoodDeliveryApplication.Controllers.FoodSiteController..ctor(ILogger`1 logger) in F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\Controllers\FoodSiteController.cs:line 28
+   at lambda_method25(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+
+2022-12-19 12:26:07.119 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:07.119 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:07.120 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:07.120 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:07.121 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/FoodSite/CreateAccount - - - 500 - text/html;+charset=utf-8 7016.4741ms
+2022-12-19 12:26:07.121 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:07.121 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/FoodSite/Login - - - 500 - text/html;+charset=utf-8 5253.2964ms
+2022-12-19 12:26:07.122 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:07.122 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/FoodSite/Login - - - 500 - text/html;+charset=utf-8 21414.4340ms
+2022-12-19 12:26:07.154 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:26:07.154 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 0.2877ms
+2022-12-19 12:26:15.774 +05:30  DBG  Connection id "0HMN1HN8SPH2D" received FIN.
+2022-12-19 12:26:15.774 +05:30  DBG  Connection id "0HMN1HN8SPH2D" is closed. The last processed stream ID was 7.
+2022-12-19 12:26:15.774 +05:30  DBG  Connection id "0HMN1HN8SPH2D" sending FIN because: "The client closed the connection."
+2022-12-19 12:26:15.775 +05:30  DBG  Connection id "0HMN1HN8SPH2D" stopped.
+2022-12-19 12:26:26.936 +05:30  DBG  Connection id "0HMN1HN8SPH2E" accepted.
+2022-12-19 12:26:26.937 +05:30  DBG  Connection id "0HMN1HN8SPH2E" started.
+2022-12-19 12:26:26.940 +05:30  DBG  Connection 0HMN1HN8SPH2E established using the following protocol: "Tls13"
+2022-12-19 12:26:26.944 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/ - -
+2022-12-19 12:26:26.948 +05:30  DBG  The request path / does not match a supported file type
+2022-12-19 12:26:26.948 +05:30  DBG  1 candidate(s) found for the request path '/'
+2022-12-19 12:26:26.948 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2022-12-19 12:26:26.948 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:26:26.948 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:26:26.949 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:26:26.949 +05:30  INF  Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication).
+2022-12-19 12:26:26.949 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:26:26.949 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:26.949 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:26:26.949 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:26:26.949 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:26.949 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:26:26.949 +05:30  DBG  Executed controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:26:26.949 +05:30  DBG  View lookup cache hit for view 'Index' in controller 'Home'.
+2022-12-19 12:26:26.949 +05:30  INF  Executing ViewResult, running view Index.
+2022-12-19 12:26:26.949 +05:30  DBG  The view path '/Views/Home/Index.cshtml' was found in 0.2302ms.
+2022-12-19 12:26:26.950 +05:30  DBG  View lookup cache hit for view '_Layout' in controller 'Home'.
+2022-12-19 12:26:26.951 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:26.951 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:26:26.951 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:26:26.951 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:26.951 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:26:26.951 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:26:26.951 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:26.951 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/CreateAccount and 
+2022-12-19 12:26:26.951 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/CreateAccount
+2022-12-19 12:26:26.951 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:26.951 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/Login and 
+2022-12-19 12:26:26.951 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/Login
+2022-12-19 12:26:26.951 +05:30  DBG  View lookup cache hit for view '_Notification' in controller 'Home'.
+2022-12-19 12:26:26.951 +05:30  DBG  The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2022-12-19 12:26:26.952 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:26.952 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2022-12-19 12:26:26.952 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2022-12-19 12:26:26.956 +05:30  INF  Executed ViewResult - view Index executed in 6.5192ms.
+2022-12-19 12:26:26.956 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication) in 6.9578ms
+2022-12-19 12:26:26.956 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:26:26.956 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:26.957 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:26.957 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/ - - - 200 - text/html;+charset=utf-8 12.8023ms
+2022-12-19 12:26:27.639 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:26:27.646 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 2.7541ms
+2022-12-19 12:26:27.751 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:26:27.752 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 0.2341ms
+2022-12-19 12:26:29.070 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/FoodSite/Login - -
+2022-12-19 12:26:29.072 +05:30  DBG  The request path /FoodSite/Login does not match a supported file type
+2022-12-19 12:26:29.072 +05:30  DBG  1 candidate(s) found for the request path '/FoodSite/Login'
+2022-12-19 12:26:29.072 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/FoodSite/Login'
+2022-12-19 12:26:29.073 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:29.073 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:26:29.073 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:29.073 +05:30  INF  Route matched with {action = "Login", controller = "FoodSite"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication).
+2022-12-19 12:26:29.073 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:26:29.073 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:29.073 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:26:29.073 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:26:29.073 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:29.073 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication)
+2022-12-19 12:26:35.782 +05:30  DBG  Connection id "0HMN1HN8SPH2E" received FIN.
+2022-12-19 12:26:35.782 +05:30  DBG  Connection id "0HMN1HN8SPH2E" is closed. The last processed stream ID was 7.
+2022-12-19 12:26:35.782 +05:30  DBG  Connection id "0HMN1HN8SPH2E" sending FIN because: "The client closed the connection."
+2022-12-19 12:26:36.375 +05:30  DBG  Connection id "0HMN1HN8SPH2F" received FIN.
+2022-12-19 12:26:36.375 +05:30  DBG  Connection id "0HMN1HN8SPH2F" accepted.
+2022-12-19 12:26:36.375 +05:30  DBG  Connection id "0HMN1HN8SPH2F" started.
+2022-12-19 12:26:36.375 +05:30  DBG  Failed to authenticate HTTPS connection.System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+
+2022-12-19 12:26:36.376 +05:30  DBG  Connection id "0HMN1HN8SPH2F" stopped.
+2022-12-19 12:26:36.376 +05:30  DBG  Connection id "0HMN1HN8SPH2F" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-19 12:26:37.546 +05:30  DBG  Connection id "0HMN1HN8SPH2G" accepted.
+2022-12-19 12:26:37.555 +05:30  DBG  Connection id "0HMN1HN8SPH2G" started.
+2022-12-19 12:26:37.561 +05:30  DBG  Connection 0HMN1HN8SPH2G established using the following protocol: "Tls13"
+2022-12-19 12:26:37.566 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/ - -
+2022-12-19 12:26:37.572 +05:30  DBG  The request path / does not match a supported file type
+2022-12-19 12:26:37.572 +05:30  DBG  1 candidate(s) found for the request path '/'
+2022-12-19 12:26:37.572 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2022-12-19 12:26:37.572 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:26:37.573 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:26:37.574 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:26:37.574 +05:30  INF  Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication).
+2022-12-19 12:26:37.574 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:26:37.574 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:37.574 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:26:37.574 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:26:37.575 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:37.575 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:26:37.575 +05:30  DBG  Executed controller factory for controller FoodDeliveryApplication.Controllers.HomeController (FoodDeliveryApplication)
+2022-12-19 12:26:37.575 +05:30  DBG  View lookup cache hit for view 'Index' in controller 'Home'.
+2022-12-19 12:26:37.576 +05:30  INF  Executing ViewResult, running view Index.
+2022-12-19 12:26:37.576 +05:30  DBG  The view path '/Views/Home/Index.cshtml' was found in 0.4465ms.
+2022-12-19 12:26:37.577 +05:30  DBG  View lookup cache hit for view '_Layout' in controller 'Home'.
+2022-12-19 12:26:37.579 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:37.579 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:26:37.579 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:26:37.579 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:37.579 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2022-12-19 12:26:37.579 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2022-12-19 12:26:37.579 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:37.579 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/CreateAccount and 
+2022-12-19 12:26:37.579 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/CreateAccount
+2022-12-19 12:26:37.579 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:37.579 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /FoodSite/Login and 
+2022-12-19 12:26:37.579 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /FoodSite/Login
+2022-12-19 12:26:37.579 +05:30  DBG  View lookup cache hit for view '_Notification' in controller 'Home'.
+2022-12-19 12:26:37.579 +05:30  DBG  The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2022-12-19 12:26:37.579 +05:30  DBG  Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-19 12:26:37.579 +05:30  DBG  Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2022-12-19 12:26:37.580 +05:30  DBG  Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2022-12-19 12:26:37.604 +05:30  INF  Executed ViewResult - view Index executed in 28.4587ms.
+2022-12-19 12:26:37.604 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication) in 29.5015ms
+2022-12-19 12:26:37.604 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.HomeController.Index (FoodDeliveryApplication)'
+2022-12-19 12:26:37.605 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:37.606 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:37.606 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/ - - - 200 - text/html;+charset=utf-8 39.9268ms
+2022-12-19 12:26:38.254 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:26:38.254 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 0.4023ms
+2022-12-19 12:26:39.526 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/FoodSite/Login - -
+2022-12-19 12:26:39.527 +05:30  DBG  The request path /FoodSite/Login does not match a supported file type
+2022-12-19 12:26:39.528 +05:30  DBG  1 candidate(s) found for the request path '/FoodSite/Login'
+2022-12-19 12:26:39.528 +05:30  DBG  Endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/FoodSite/Login'
+2022-12-19 12:26:39.528 +05:30  DBG  Request matched endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:39.528 +05:30  WRN  Error unprotecting the session cookie.System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+
+2022-12-19 12:26:39.528 +05:30  INF  Executing endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:39.528 +05:30  INF  Route matched with {action = "Login", controller = "FoodSite"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication).
+2022-12-19 12:26:39.528 +05:30  DBG  Execution plan of authorization filters (in the following order): ["None"]
+2022-12-19 12:26:39.528 +05:30  DBG  Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:39.528 +05:30  DBG  Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2022-12-19 12:26:39.528 +05:30  DBG  Execution plan of exception filters (in the following order): ["None"]
+2022-12-19 12:26:39.529 +05:30  DBG  Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-12-19 12:26:39.529 +05:30  DBG  Executing controller factory for controller FoodDeliveryApplication.Controllers.FoodSiteController (FoodDeliveryApplication)
+2022-12-19 12:26:50.221 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication) in 10692.1688ms
+2022-12-19 12:26:50.221 +05:30  INF  Executed action FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication) in 21147.2592ms
+2022-12-19 12:26:50.221 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:50.221 +05:30  INF  Executed endpoint 'FoodDeliveryApplication.Controllers.FoodSiteController.Login (FoodDeliveryApplication)'
+2022-12-19 12:26:50.221 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at FoodDeliveryApplication.Controllers.FoodSiteController..ctor(ILogger`1 logger) in F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\Controllers\FoodSiteController.cs:line 28
+   at lambda_method23(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+
+2022-12-19 12:26:50.221 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at FoodDeliveryApplication.Controllers.FoodSiteController..ctor(ILogger`1 logger) in F:\FoodDelivery (AWS Codepipeline)\FoodDeliveryUser\FoodDeliveryApplication\Controllers\FoodSiteController.cs:line 28
+   at lambda_method23(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+
+2022-12-19 12:26:50.231 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:50.231 +05:30  DBG  Response markup is scheduled to include browser refresh script injection.
+2022-12-19 12:26:50.232 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:50.233 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/FoodSite/Login - - - 500 - text/html;+charset=utf-8 21162.5166ms
+2022-12-19 12:26:50.233 +05:30  DBG  Connection id "0HMN1HN8SPH2E" stopped.
+2022-12-19 12:26:50.233 +05:30  DBG  Response markup was updated to include browser refresh script injection.
+2022-12-19 12:26:50.233 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/FoodSite/Login - - - 500 - text/html;+charset=utf-8 10707.1877ms
+2022-12-19 12:26:50.261 +05:30  INF  Request starting HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - -
+2022-12-19 12:26:50.261 +05:30  INF  Request finished HTTP/2 GET https://localhost:7119/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 0.2062ms
+2022-12-19 12:26:55.828 +05:30  DBG  Connection id "0HMN1HN8SPH2G" received FIN.
+2022-12-19 12:26:55.828 +05:30  DBG  Connection id "0HMN1HN8SPH2G" is closed. The last processed stream ID was 7.
+2022-12-19 12:26:55.828 +05:30  DBG  Connection id "0HMN1HN8SPH2G" sending FIN because: "The client closed the connection."
+2022-12-19 12:26:55.828 +05:30  DBG  Connection id "0HMN1HN8SPH2G" stopped.

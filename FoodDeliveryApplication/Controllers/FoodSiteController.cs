@@ -2,13 +2,14 @@
 using FoodDeliveryApplication.Models;
 using FoodDeliveryApplication.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using Serilog;
 using System.Data.SqlClient;
 
 
 namespace FoodDeliveryApplication.Controllers
 {
-    
+    //[CustomExceptionFilter]
     public class FoodSiteController : Controller
     {
 
@@ -153,7 +154,7 @@ namespace FoodDeliveryApplication.Controllers
 
 
 
-        public IActionResult RestaurantMenu(int Id)
+        public async Task<IActionResult> RestaurantMenu(int Id)
         {
             if (HttpContext.Session.GetString("UserName") == null)
             {
@@ -162,7 +163,24 @@ namespace FoodDeliveryApplication.Controllers
             }
             Console.WriteLine("ResId" + Id);
 
-            SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
+            List<Menu> res = new List<Menu>();
+            HttpClient httpClient = new HttpClient();
+            var apiResponce = await httpClient.GetAsync("https://localhost:7021/api/Food/GetRestaurantMenuById/" + Id);
+
+            if (apiResponce.StatusCode == System.Net.HttpStatusCode.OK)
+            {
+                string res1 = await apiResponce.Content.ReadAsStringAsync();
+                res = JsonConvert.DeserializeObject<List<Menu>>(res1);
+                return View("Menu", res);
+            }
+            else
+            {
+                return Content("Api error" + apiResponce.StatusCode);
+            }
+
+
+
+            /*SqlConnection conn = new SqlConnection("Data Source = fooddeliverydatabase.ctzhubalbjxo.ap-south-1.rds.amazonaws.com,1433 ; Initial Catalog = FoodDeliveryApplication ; Integrated Security=False; User ID=admin; Password=surya1997;");
             SqlCommand cmd = new SqlCommand(String.Format("select *  from Food where Restaurant_Id={0}", Id), conn);
             conn.Open();
             SqlDataReader sr = cmd.ExecuteReader();
@@ -185,7 +203,7 @@ namespace FoodDeliveryApplication.Controllers
 
            
 
-            return View("Menu", model);
+            return View("Menu", model);*/
         }
 
 
